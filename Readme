@@ -1,0 +1,45 @@
+BayarKita - Aplikasi Pembayaran Tagihan & Top-Up
+
+BayarKita adalah aplikasi web simulasi untuk mempermudah pembayaran tagihan bulanan dan pengisian saldo (top-up) dengan tampilan modern dan antarmuka yang responsif.
+
+Fitur Utama
+
+Dashboard: Melihat saldo aktif Anda dengan tampilan visual yang menarik.
+
+Pembayaran Tagihan: Sistem cek tagihan berbasis ID pelanggan (simulasi).
+
+Desain Responsif: Antarmuka berbasis Tailwind CSS yang nyaman digunakan di berbagai ukuran layar.
+
+Navigasi Mudah: Perpindahan antar fitur (tab) yang cepat dan lancar.
+
+Cara Menjalankan
+
+Pastikan Anda memiliki akses ke browser modern.
+
+Unduh atau salin kode dari bayarkita.html.
+
+Simpan dalam file bernama bayarkita.html.
+
+Buka file tersebut menggunakan browser pilihan Anda (Chrome, Edge, Firefox, atau Safari).
+
+Teknologi yang Digunakan
+
+Tailwind CSS: Untuk styling antarmuka.
+
+Font Awesome: Untuk ikon-ikon yang menarik.
+
+JavaScript: Untuk logika interaksi antar tab dan simulasi pembayaran.
+
+Google Fonts (Plus Jakarta Sans): Untuk tipografi yang bersih dan profesional.
+
+Pengembangan Lanjutan
+
+Aplikasi ini bersifat client-side only. Anda dapat mengembangkannya lebih lanjut dengan:
+
+Menghubungkan ke API nyata untuk data tagihan.
+
+Menambahkan penyimpanan lokal (localStorage) untuk riwayat transaksi.
+
+Menambahkan fitur export struk menggunakan pustaka PDF.
+
+Dibuat untuk kebutuhan simulasi aplikasi pembayaran.
